@@ -5,13 +5,13 @@
 # 1. Daftarkan dahulu IP VPS yang telah di pointing di cloudflare disini :
 
 
- --->>>>     https://raw.githubusercontent.com/MuhammadIdsal/AksesMasuk/blob/main/ijin
+ --->>>>     https://github.com/MuhammadIdsal/AksesMasuk/blob/main/ijin
 
 
 # 2. Install Script Gnome pada vps :
 
 ```
- wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/raw/refs/heads/main/install && chmod +x install  && ./install
+ wget -q https://github.com/MuhammadIdsal/BangJali/raw/refs/heads/main/install && chmod +x install  && ./install
 
 ```
 
@@ -21,7 +21,7 @@
 ```
 cd root
 rm update
-wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/raw/refs/heads/main/update && chmod +x update  && ./update
+wget -q https://github.com/MuhammadIdsal/BangJali/raw/refs/heads/main/update && chmod +x update  && ./update
 
 ```
 
@@ -32,7 +32,7 @@ wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/raw/refs/heads/
 ```
 cd root
 rm update
-wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/raw/refs/heads/main/install-ulang-vps && chmod +x install-ulang-vps  && ./install-ulang-vps
+wget -q https://github.com/MuhammadIdsal/BangJali/raw/refs/heads/main/install-ulang-vps && chmod +x install-ulang-vps  && ./install-ulang-vps
 
 ```
 
