@@ -59,9 +59,9 @@ permission_file=$(curl -sL --connect-timeout 10 https://github.com/MuhammadIdsal
 # Validasi file permission
 if [ -z "$permission_file" ]; then
 echo -e "${PURPLE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "${RED}🛑  ${YELLOW}AKSES DITOLAK!${NC} ${RED}Script Bot Telegram ini hanya untuk${NC} ${CYAN}🔐 PEMILIK & PEMBELI RESMI Genom Pro${NC}"
+echo -e "${RED}🛑  ${YELLOW}AKSES DITOLAK!${NC} ${RED}Script Bot Telegram ini hanya untuk${NC} ${CYAN}🔐 PEMILIK & PEMBELI RESMI BANG JALI STORE${NC}"
 echo -e "${BLUE}💡  Ingin menikmati fitur lengkap seperti${NC} ${GREEN}🧠 Auto-response${NC}, ${GREEN}⚙️ Multi-tools${NC}, dan ${GREEN}📊 Statistik pintar${NC}?"
-echo -e "${YELLOW}🚀  Segera aktifkan Genom Pro sekarang dan buka semua fitur premium-nya!${NC}"
+echo -e "${YELLOW}🚀  Segera aktifkan bjm.bot Pro sekarang dan buka semua fitur premium-nya!${NC}"
 echo -e "${PURPLE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 
     exit 1
