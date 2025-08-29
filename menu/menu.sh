@@ -362,19 +362,12 @@ echo -e "            $COLOR1$NC${WH}    TROJAN  =  ${COLOR1}$trtls ${NC}${WH} AC
 echo -e "   $COLOR1╰═════════════════════════════════════════════╯${NC}"
 echo -e "$COLOR1╭═══════════════════ • ${NC}${WH}LIST MENU${NC}${COLOR1} • ═════════════════╮${NC}"
 echo -e "$COLOR1│                                                   $COLOR1│ $NC"
-echo -e "$COLOR1│ ${WH}[${COLOR1}01${WH}]${NC} ${COLOR1}• ${WH}SSH VPN  ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}06${WH}]${NC} ${COLOR1}• ${WH}RUNNING  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
-echo -e "$COLOR1│ ${WH}[${COLOR1}02${WH}]${NC} ${COLOR1}• ${WH}VMESS    ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}07${WH}]${NC} ${COLOR1}• ${WH}RESTART  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
-echo -e "$COLOR1│ ${WH}[${COLOR1}03${WH}]${NC} ${COLOR1}• ${WH}VLESS    ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}08${WH}]${NC} ${COLOR1}• ${WH}REBOOT   ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
-echo -e "$COLOR1│ ${WH}[${COLOR1}04${WH}]${NC} ${COLOR1}• ${WH}TRJAN    ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}09${WH}]${NC} ${COLOR1}• ${WH}UPDATE   ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
-echo -e "$COLOR1│ ${WH}[${COLOR1}05${WH}]${NC} ${COLOR1}• ${WH}BACKUP   ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}10${WH}]${NC} ${COLOR1}• ${WH}SETTING  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
-echo -e "$COLOR1│                                                   $COLOR1│ $NC"
-echo -e "${BLUE}╭═══════${PURPLE}══════ • ${GREEN}CHECK USER ONLINE${YELLOW} • ${RED}═══════════════╮${NC}"
-echo -e "${CYAN}│PILIH NOMOR${NC} ${MAGENTA}[12] ${YELLOW}🔍 MELIHAT STATUS USER YANG ONLINE${NC}│"
-echo -e "${YELLOW}╰══${GREEN}==================${BLUE}══=======${PURPLE}══════════════════════${RED}╯${NC}"
-
-echo -e "${MAGENTA}╭═══════${CYAN}══════ • ${RED}GENOM SCRIPT PRO${BLUE} • ${GREEN}═══════════════╮${NC}"
-echo -e "${YELLOW}│PILIH NOMOR${NC} ${CYAN}  [15]    ${WH}🧬 AKSESS GENOM PRO ADMIN 🧬${NC}│"
-echo -e "${BLUE}╰══${RED}==================${GREEN}══=======${CYAN}══════════════════════${MAGENTA}╯${NC}"
+echo -e "$COLOR1│ ${WH}[${COLOR1}01${WH}]${NC} ${COLOR1}• ${WH}SSH VPN  ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}07${WH}]${NC} ${COLOR1}• ${WH}RESTART  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
+echo -e "$COLOR1│ ${WH}[${COLOR1}02${WH}]${NC} ${COLOR1}• ${WH}VMESS    ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}08${WH}]${NC} ${COLOR1}• ${WH}REBOOT  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
+echo -e "$COLOR1│ ${WH}[${COLOR1}03${WH}]${NC} ${COLOR1}• ${WH}VLESS    ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}09${WH}]${NC} ${COLOR1}• ${WH}UPDATE   ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
+echo -e "$COLOR1│ ${WH}[${COLOR1}04${WH}]${NC} ${COLOR1}• ${WH}TRJAN    ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}10${WH}]${NC} ${COLOR1}• ${WH}SETTING   ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
+echo -e "$COLOR1│ ${WH}[${COLOR1}05${WH}]${NC} ${COLOR1}• ${WH}BACKUP   ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}11${WH}]${NC} ${COLOR1}• ${WH}USER ONLINE  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
+echo -e "$COLOR1│ ${WH}[${COLOR1}06${WH}]${NC} ${COLOR1}• ${WH}RUNNING  ${WH}[${COLOR1}Menu${WH}]     ${WH}[${COLOR1}12${WH}]${NC} ${COLOR1}• ${WH}TAMPILAN ADMIN  ${WH}[${COLOR1}Menu${WH}]$COLOR1 │ $NC"
 echo -e "$COLOR1│                                                   $COLOR1│ $NC"
 echo -e "$COLOR1╰═══════════════════════════════════════════════════╯${NC}"
 echo -e "$COLOR1╭═══════════════════════════════════════════════════╮${NC}"
@@ -384,7 +377,7 @@ echo -e "$COLOR1╰════════════════════�
 
 echo -e "$COLOR1╭═══════════════════════════════════════════════════╮${NC}"
 echo -e "$COLOR1│ $NC ${WH}Versi Script  ${COLOR1}: ${WH}$(cat /opt/.ver) Latest Version${NC}$COLOR1"
-echo -e "$COLOR1│ $NC ${WH}Author        ${COLOR1}: ${WH}BangJali-Store${NC}$COLOR1"
+echo -e "$COLOR1│ $NC ${WH}Author        ${COLOR1}: ${WH}BANG JALI STORE${NC}$COLOR1"
 echo -e "$COLOR1│ $NC ${WH}Client        ${COLOR1}: ${WH}$client_name${NC}"
 echo -e "$COLOR1│ $NC ${WH}Sisa Hari     ${COLOR1}: ${WH}$days_remaining hari${NC}"
 echo -e "$COLOR1│ $NC ${WH}Expire Date   ${COLOR1}: ${WH}$exp_date${NC}"
@@ -402,9 +395,9 @@ case $opt in
 08 | 8) clear ; reboot ;;
 09 | 9) clear ; m-update ;;
 10 | 10) clear ; system ;;
-11 | 11) clear ; menu-backup;;
-12 | 12) clear ; online;;
-15 | 15) clear ; admin;;
+11 | 11) clear ; online;;
+12 | 12) clear ; admin;;
+13 | 13) clear ; menu-backup;;
 00 | 0) clear ; menu ;;
 *) clear ; menu ;;
 esac
