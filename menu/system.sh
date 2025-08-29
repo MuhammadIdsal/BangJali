@@ -531,7 +531,8 @@ echo -e " $COLOR1║${NC} ${WH}[${COLOR1}02${WH}]${NC} ${COLOR1}• ${WH}CHANGE 
 echo -e " $COLOR1║${NC} ${WH}[${COLOR1}03${WH}]${NC} ${COLOR1}• ${WH}CHANGE THEMA SC     ${WH}${WH}[${COLOR1}08${WH}]${NC} ${COLOR1}• ${WH}CHECK CPU VPS      ${WH}$COLOR1║ $NC"
 echo -e " $COLOR1║${NC} ${WH}[${COLOR1}04${WH}]${NC} ${COLOR1}• ${WH}CHANGE CORE MENU    ${WH}${WH}[${COLOR1}09${WH}]${NC} ${COLOR1}• ${WH}CHECK PORT VPS     ${WH}$COLOR1║ $NC"
 echo -e " $COLOR1║${NC} ${WH}[${COLOR1}05${WH}]${NC} ${COLOR1}• ${WH}CLEAR RAM CACHE     ${WH}${WH}[${COLOR1}10${WH}]${NC} ${COLOR1}• ${WH}REBUILD VPS        ${WH}$COLOR1║ $NC"
-echo -e " $COLOR1║${NC} ${WH}[${COLOR1}11${WH}]${NC} ${COLOR1}• ${WH}DELETE USER EXPIRED ${WH}${WH}[${COLOR1}00${WH}]${NC} ${COLOR1}• ${WH}EXIT               ${WH}$COLOR1║ $NC"                       
+echo -e " $COLOR1║${NC} ${WH}[${COLOR1}11${WH}]${NC} ${COLOR1}• ${WH}DELETE USER EXPIRED ${WH}${WH}[${COLOR1}00${WH}]${NC} ${COLOR1}• ${WH}EXIT               ${WH}$COLOR1║ $NC"             
+echo -e " $COLOR1║${NC}                                               ${NC}$COLOR1║ $NC"           
 echo -e " $COLOR1╚══════════════════════════════════════════════════════╝${NC}"
 echo -e ""
 echo -ne " ${WH}Select menu ${COLOR1}: ${WH}"; read opt
