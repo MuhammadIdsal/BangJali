@@ -548,3 +548,4 @@ case $opt in
 11 |11) clear ; del-exp ;;
 00 |0) clear ; menu ;; 
 *) echo -e "" ; echo "Anda salah tekan" ; sleep 1 ; system ;;
+esac
