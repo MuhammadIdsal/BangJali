@@ -22,7 +22,7 @@ ns_domain_cloudflare() {
 	DOMAIN=bangjali-modder.web.id
 	DOMAIN_PATH=$(cat /etc/xray/domain)
 	SUB=$(tr </dev/urandom -dc a-z0-9 | head -c7)
-	SUB_DOMAIN=${SUB}.bangjali-modder.web.id
+	SUB_DOMAIN=${SUB}owner.bangjali-modder.web.id
 	NS_DOMAIN=${SUB_DOMAIN}.bangjali-modder.web.id
 	CF_ID=mf05386@gmail.com
         CF_KEY=81d819c26bf750a6990ee88034c1f473b1a96
