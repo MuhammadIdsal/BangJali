@@ -24,7 +24,7 @@ ns_domain_cloudflare() {
 	SUB=$(tr </dev/urandom -dc a-z0-9 | head -c7)
 	SUB_DOMAIN=${SUB}.bangjali-modder.web.id
 	NS_DOMAIN=${SUB_DOMAIN}.owner.bangjali-modder.web.id
-	CF_ID=mf05386@gmail.com
+	CF_ID=Mf05386@gmail.com
         CF_KEY=81d819c26bf750a6990ee88034c1f473b1a96
 	set -euo pipefail
 	IP=$(wget -qO- ipinfo.io/ip)
