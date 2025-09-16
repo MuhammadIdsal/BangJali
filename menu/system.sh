@@ -544,7 +544,7 @@ case $opt in
 06 |7) clear ; certv2ray ;; 
 07 |8) clear ; gotopp ;; 
 09 |9) clear ; check-port ;; 
-10 |10) clear ; wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/raw/refs/heads/main/install-ulang-vps && bash install-ulang-vps ;; 
+10 |10) clear ; wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/refs/heads/main/install-ulang-vps && bash install-ulang-vps ;; 
 11 |11) clear ; del-exp ;;
 12 |12) clear ; speedtest ;;
 00 |0) clear ; menu ;; 
