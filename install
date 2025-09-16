@@ -91,7 +91,7 @@ while true; do
         break
     else
         echo -e "${red}❌ Client Name atau IP ($IP_VPS) tidak terdaftar!${NC}"
-        echo -e "➥ Hubungi admin ${CYAN}「 ✦ @HokageLegend ✦ 」${NC}"
+        echo -e "➥ Hubungi admin ${CYAN}「 ✦ @Jalijall02 ✦ 」${NC}"
         # Hapus file installer jika validasi gagal
         rm -f /root/home 
         exit 1
@@ -608,7 +608,7 @@ exp_date=$(echo "$permission_file" | grep -w "$client_name" | awk '{print $3}')
 
 MESSAGE="\`\`\`
 ❏━━━━━━━━━━━━━━━━━━━━━━━━━━❏
- 🤖 Hokage Store Project 🤖
+ 🤖BANGJALI Store Project🤖
 ❏━━━━━━━━━━━━━━━━━━━━━━━━━━❏
 ❖ Status      : Active
 ❖ User VPS    : $USERVPS
