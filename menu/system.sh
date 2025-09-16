@@ -546,7 +546,7 @@ case $opt in
 09 |9) clear ; check-port ;; 
 10 |10) clear ; wget -q https://raw.githubusercontent.com/MuhammadIdsal/BangJali/raw/refs/heads/main/install-ulang-vps && bash install-ulang-vps ;; 
 11 |11) clear ; del-exp ;;
-12 |12) clear ; speedtest_cli ;;
+12 |12) clear ; speedtest ;;
 00 |0) clear ; menu ;; 
 *) echo -e "" ; echo "Anda salah tekan" ; sleep 1 ; system ;;
 esac
